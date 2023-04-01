@@ -1,0 +1,3 @@
+C:/Splits/Build/CMakeFiles/Splits.dir
+C:/Splits/Build/CMakeFiles/edit_cache.dir
+C:/Splits/Build/CMakeFiles/rebuild_cache.dir

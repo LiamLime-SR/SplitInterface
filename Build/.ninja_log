@@ -1,0 +1,9 @@
+# ninja log v5
+21	1331	7020274432242817	CMakeFiles/Splits.dir/SplitSet.cpp.obj	fb735d83e9737fce
+15	2080	7020274439509241	CMakeFiles/Splits.dir/Split.cpp.obj	47bd1021d9e2c578
+33	2354	7020274442454501	CMakeFiles/Splits.dir/Interface.cpp.obj	29214e029d67fa0b
+6	2633	7020274445173238	CMakeFiles/Splits.dir/Time.cpp.obj	f5d5fc93c556c43c
+1	3009	7020274449416870	CMakeFiles/Splits.dir/main.cpp.obj	fdcf29dfb62ebcdd
+52	3769	7020274457051770	CMakeFiles/Splits.dir/SafeSplit.cpp.obj	ff04c73bbe1cfca0
+1338	5804	7020274477386326	CMakeFiles/Splits.dir/SplitInterface.cpp.obj	8e46d5ae22a3ad5e
+5804	6300	7020274482229410	Splits.exe	cdde263593d179e7

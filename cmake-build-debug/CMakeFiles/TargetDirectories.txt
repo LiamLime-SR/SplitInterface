@@ -1,0 +1,3 @@
+C:/Splits/cmake-build-debug/CMakeFiles/Splits.dir
+C:/Splits/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Splits/cmake-build-debug/CMakeFiles/rebuild_cache.dir
